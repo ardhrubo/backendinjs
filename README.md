@@ -40,6 +40,3 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-You can copy and paste this markdown content into a README.md file in your GitHub repository to document your backend project. Feel free to customize it further to suit your project's specific requirements.
