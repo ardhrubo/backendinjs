@@ -6,7 +6,7 @@ This repository contains all the backend files for a web application. It include
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/total-backend-file.git
+   git clone https://github.com/ardhrubo/backendinjs.git
    ```
 
 2. **Install dependencies:**
