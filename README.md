@@ -8,6 +8,10 @@ This repository contains all the backend files for a web application. It include
    ```sh
    git clone https://github.com/ardhrubo/backendinjs.git
    ```
+## Designed System 
+![Backend Model](https://github.com/ardhrubo/backendinjs/assets/112472739/6d69edc8-5db7-40c2-b676-2594633c6719)
+
+   
 
 2. **Install dependencies:**
    ```sh
